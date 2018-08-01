@@ -1,0 +1,30 @@
+{
+  "name": "version-update",
+  "version": "0.0.1",
+  "description": "package.json version updater",
+  "main": "index.js",
+  "bin": {
+    "version-update": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tumerorkun/version-update.git"
+  },
+  "keywords": [
+    "npm",
+    "package.json",
+    "version",
+    "update",
+    "package"
+  ],
+  "author": "Orkun Tumer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tumerorkun/version-update/issues"
+  },
+  "homepage": "https://github.com/tumerorkun/version-update#readme",
+  "dependencies": {}
+}
