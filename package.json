@@ -1,5 +1,5 @@
 {
-  "name": "version-updater",
+  "name": "v-up",
   "version": "0.0.1",
   "description": "package.json version updater",
   "main": "index.js",
